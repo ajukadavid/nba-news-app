@@ -1,1 +1,5 @@
-Nba news app with react with videos and dummy news text from local database
+Nba news app with react 
+
+
+
+Contains lorem ipsum new gotten from data base and videos from youtube.
